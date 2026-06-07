@@ -1,2 +1,2 @@
 # Challenge
-CCnRepo creating and deployment 
+CC Repo creating and deployment 
